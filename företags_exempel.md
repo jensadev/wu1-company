@@ -63,8 +63,9 @@ CyberSteed kombinerar traditionell lek med banbrytande teknik för att skapa en 
 ### Unik Säljpunkt (USP)
 **USP**: Inte Kapitalist, Men kombinerar lönsamhet med ett starkt fokus på etik och hållbarhet. Våra produkter är inte bara miljövänliga och rättvist producerade, utan vi återinvesterar också en del av våra vinster i samhällsprojekt och miljöinitiativ. Detta gör att våra kunder kan känna sig stolta över att stödja ett företag som verkligen gör skillnad.
 
+---
 
-### Företagsnamn
+## Företagsnamn
 **EduArm Solutions**
 
 ### Mission Statement
